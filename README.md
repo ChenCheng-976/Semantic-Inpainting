@@ -13,6 +13,18 @@ This repository contains code and models for performing visual inpainting of occ
 - Temporal smoothing and CSI fusion modules
 - Visualization tools for input/output comparisons
 
+
+
+## News
+
+- **[2025-02-08]** Our paper is accepted by [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://icmlcn2025.ieee-icmlcn.org/), Congratulations!
+
+
+
+
+
+
+
 ---
 
 ## Project Structure
