@@ -15,17 +15,17 @@ This repository contains code and models for performing visual inpainting of occ
 
 
 
+## Project Structure
+
+
+
 ## News
 
 - **[2025-02-08]** Our paper is accepted by the proceeding of [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://icmlcn2025.ieee-icmlcn.org/), Congratulations!
 
 
-
-
-
-
-
 ---
 
-## Project Structure
+
+
 
