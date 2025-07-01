@@ -16,8 +16,8 @@ We considered a semantic inpainting framework where missing sensing modalities a
 - **Single- & Cross-Modal Compatibility**  
   Works in both single-modality (e.g., image-only) and cross-modality (e.g., CSI-to-image) settings.
   
-- **Flexible design with Pretrained Modular Architectures**  
-  *Semantic Encoders* → *Semantic Inpaintor (Projection)* → *Downstream Decoder*  
+- **Flexible Design with Optional Pretrained Modular Architectures**  
+  Semantic Encoder(s) → Semantic Inpaintor (Projection) → Downstream Decoder(s)
   <br>Reuse components across Versatile tasks:
   - Image Inpainting  
   - Future CSI Prediction  
