@@ -1,6 +1,6 @@
 # Semantic Inpainting for Distributed Cross-Modal Integrated Sensing and Communication (ISAC)
 
-**Semantic Inpainting with Multi-Modal Data (e.g., Image + CSI)**  
+**Semantic Inpainting with Multi-Modal Sensory Data (e.g., Image + CSI)**  
 This repository contains code and models for performing visual inpainting of occluded regions using deep learning, with a focus on leveraging auxiliary sensor modalities such as Wi-Fi CSI (Channel State Information).
 
 ---
@@ -8,10 +8,9 @@ This repository contains code and models for performing visual inpainting of occ
 ## Features
 
 - Semantic inpainting with partial or occluded inputs
-- Support for image-only and cross-modal setups (e.g., CSI-to-image)
-- Encoder-decoder architectures with optional pretrained ViT backbone
-- Temporal smoothing and CSI fusion modules
-- Visualization tools for input/output comparisons
+- Support for singlemodal (e.g., image-only) and cross-modal setups (e.g., CSI-to-image)
+- optional pretrained model backbone Semnatic Encoder-Semantic Inpaintor (projection)- vasertile Decoder for multiple downstream tasks architectures with optional pretrained model backbone
+
 
 
 
@@ -19,7 +18,7 @@ This repository contains code and models for performing visual inpainting of occ
 
 
 ## Semantic Inpainting Framework
-![semantic_inpainting_framework](Images/poster.png)
+<img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="300"/>
 
 
 ## News
