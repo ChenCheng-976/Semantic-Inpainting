@@ -18,7 +18,7 @@ We considered a semantic inpainting framework where missing sensing modalities a
   
 - **Flexible Design with Optional Pretrained Modular Architectures**  
   Semantic Encoder(s) → Semantic Inpaintor (Projection) → Downstream Decoder(s)
-  <br>Reuse components across Versatile tasks:
+  <br>Reuse components across Versatile tasks, here we give three examples:
   - Image Inpainting  
   - Future CSI Prediction  
   - Human Count Estimation
