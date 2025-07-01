@@ -28,11 +28,15 @@ We considered a semantic inpainting framework where missing sensing modalities a
 ## Project Structure
 ```text
 semantic-inpainting-framework/
-├── code/            # Encoders, decoders, projection heads
+├── code/             # , decoders, projection heads
+|     ├── Step 2: Pretraining for Downstream Decoders
+|     ├── Step 2: Pretraining for Semantic Inpaintors
+|     └── Step 1: Pretraining for Semantic Encoders
+|
 ├── data/              # Pre-/post-processing scripts
 ├── experiments/       # Training & evaluation pipelines
 ├── pretrained models/        # Pretrained weights (optional)
-├── Images/            # Figures for docs
+├── Images/            　　　　# Figures for docs
 └── README.md
 ```
 
