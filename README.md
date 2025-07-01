@@ -29,10 +29,9 @@ We considered a semantic inpainting framework where missing sensing modalities a
 ```text
 semantic-inpainting-framework/
 ├── code/             # , decoders, projection heads
-|     ├── Step 2: Pretraining for Downstream Decoders
+|     ├── Step 3: Pretraining for Downstream Decoders
 |     ├── Step 2: Pretraining for Semantic Inpaintors
 |     └── Step 1: Pretraining for Semantic Encoders
-|
 ├── data/              # Pre-/post-processing scripts
 ├── experiments/       # Training & evaluation pipelines
 ├── pretrained models/        # Pretrained weights (optional)
