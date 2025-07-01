@@ -8,7 +8,7 @@ This repository contains code and models for performing visual inpainting of occ
 
 ## Semantic Inpainting Framework
 We proposed a semantic inpainting framework where missing sensing modalities are inpainted via self-supervised semantic-space aggregation, providing the receiver with comprehensive target information.
-<img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
+<img src="Images/poster.png" alt="semantic_inpainting_framework" width="500"/>
 
 
 
