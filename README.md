@@ -13,10 +13,10 @@ We considered a semantic inpainting framework where missing sensing modalities a
 - **Semantic Inpainting with Robust Occlusion-Free Support**  
   Restore masked or occluded regions using self-supervised cross-modal context.
   
-- **Single- & Cross-Modal Compatibility**  
+- **Single- & Cross-Modal Sensing Compatibility**  
   Works in both single-modality (e.g., image-only) and cross-modality (e.g., CSI-to-image) settings.
   
-- **Flexible Design with Optional Pretrained Modular Architectures**  
+- **Flexible Design with Optional Pretrained Architectures for Multiple Downstream Tasks**  
   Semantic Encoder(s) → Semantic Inpaintor (Projection) → Downstream Decoder(s)
   <br>Reuse components across **versatile tasks**, here we give three examples:
   - Image Inpainting  
