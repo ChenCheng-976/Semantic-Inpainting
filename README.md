@@ -6,12 +6,20 @@ This repository contains code and models for performing visual inpainting of occ
 ---
 
 ## Features
+### Semantic Inpainting with Occlusion Support
+Robust inpainting from partially masked or occluded input data.
 
-- Semantic inpainting with partial or occluded inputs
-- Support for singlemodal (e.g., image-only) and cross-modal setups (e.g., CSI-to-image)
-- optional pretrained model backbone Semnatic Encoder-Semantic Inpaintor (projection)- vasertile Decoder for multiple downstream tasks architectures with optional pretrained model backbone
+### Single- and Cross-Modal Compatibility
+Works in both single-modality (e.g., image-only) and cross-modality (e.g., CSI-to-image) settings.
 
-
+### Modular Architecture
+Flexible design with the following pre-trained components:
+- Semantic Encoder
+- Semantic Inpaintor (Projection Layer)
+- Versatile Decoders for Multiple Downstream Tasks
+  Image Inpainting
+  Future CSI Prediction
+  Human Count Estimation
 
 
 ## Project Structure
