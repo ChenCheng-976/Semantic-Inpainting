@@ -39,7 +39,7 @@ semantic-inpainting-framework/
 ---
 
 ## News
-- **[2025-07-08]** Our paper is to be presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​]([https://icmlcn2025.ieee-icmlcn.org/](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
+- **[2025-07-08]** Our paper is to be presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
 - **[2025-02-08]** Our paper is accepted by the proceeding of [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://icmlcn2025.ieee-icmlcn.org/), Congratulations!
 
 
