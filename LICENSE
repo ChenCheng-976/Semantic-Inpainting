@@ -1,0 +1,29 @@
+
+---
+
+### **4. Content for `docs/index.md` (Landing Page)**
+
+```markdown
+# Semantic Inpainting Framework for Distributed Multimodal Intelligence
+
+Welcome to the official page for our Semantic Inpainting project!
+
+## Overview
+
+This framework explores **distributed joint embedding predictive architectures** (JEPA) across cross-modal sensory inputs such as:
+
+- Wi-Fi CSI sequences
+- Camera imagery (RGB)
+- LiDAR (planned)
+- Trajectories (planned)
+
+We propose a flexible, scalable, self-supervised inpainting engine to enable **modality-aware** and **resource-efficient** sensing and communication.
+
+## Architecture
+
+![semantic_inpainting_framework](images/semantic_inpainting.pdf)
+
+## Publications
+
+- **"A Semantic Inpainting Framework for Distributed Cross-Modal Integrated Sensing and Communication"**  
+  *Accepted at IEEE ICMLCN 2025*
