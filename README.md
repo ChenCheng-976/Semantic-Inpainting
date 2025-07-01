@@ -12,17 +12,14 @@ Robust inpainting from partially masked or occluded input data.
 ### Single- and Cross-Modal Compatibility
 Works in both single-modality (e.g., image-only) and cross-modality (e.g., CSI-to-image) settings.
 
-### Modular Architecture
-Flexible design with the following pre-trained components:
+### Flexible design with Pretrained Model Components
 - Semantic Encoder
 - Semantic Inpaintor (Projection Layer)
-- Versatile Decoders for Multiple Downstream Tasks
-  Image Inpainting
-  Future CSI Prediction
-  Human Count Estimation
+- Versatile Decoders for Multiple Downstream Tasks:
+1. Image Inpainting
+2. Future CSI Prediction
+3. Human Count Estimation
 
-
-## Project Structure
 
 
 ## Semantic Inpainting Framework
