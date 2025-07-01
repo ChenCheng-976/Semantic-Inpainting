@@ -5,25 +5,30 @@ This repository contains code and models for performing visual inpainting of occ
 
 ---
 
-## Features
-### Semantic Inpainting with Occlusion Support
-Robust inpainting from partially masked or occluded input data.
-
-### Single- and Cross-Modal Compatibility
-Works in both single-modality (e.g., image-only) and cross-modality (e.g., CSI-to-image) settings.
-
-### Flexible design with Pretrained Model Components
-- Semantic Encoder
-- Semantic Inpaintor (Projection Layer)
-- Versatile Decoders for Multiple Downstream Tasks:
-1. Image Inpainting
-2. Future CSI Prediction
-3. Human Count Estimation
-
-
 
 ## Semantic Inpainting Framework
+We consider a wireless network in which each cell consists of a BS, regular wireless terminals (users), and multi-modal sensors (e.g., cameras, LiDAR, RF). The cell spans a small-area coverage (tens of meters), with sensors deployed to monitor the local environment. For simplicity, we assume that sensors are managed by the network operator, which allocates wireless resource blocks \( b \) to both terminals and sensors. Terminals transmit data proportionally to their allocated resources, while only sensors receiving sufficient resources are permitted to transmit. In addition, RF modalities are extracted from communication signals transmitted by both terminals and sensors, providing physical-state observations of the environment.
 <img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
+
+
+
+## Features
+- **Semantic Inpainting with Occlusion Support**  
+  Restore masked or occluded regions using self-supervised cross-modal context.
+  
+- **Single- & Cross-Modal Compatibility**  
+  Works in both single-modality (e.g., image-only) and cross-modality (e.g., CSI-to-image) settings.
+  
+- **Flexible design with Pretrained Modular Architectures**  
+  *Semantic Encoders* → *Semantic Inpaintor (Projection)* → *Downstream Decoder*  
+  <br>Reuse components across Versatile tasks:
+  - Image Inpainting  
+  - Future CSI Prediction  
+  - Human Count Estimation
+
+---
+
+
 
 
 ## News
