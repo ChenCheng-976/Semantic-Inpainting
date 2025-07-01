@@ -18,7 +18,8 @@ This repository contains code and models for performing visual inpainting of occ
 ## Project Structure
 
 
-## System Architecture
+## Semantic Inpainting Framework
+We consider a wireless network in which each cell consists of a BS, regular wireless terminals (users), and multimodal sensors (e.g., cameras, LiDAR, RF). The cell spans a small-area coverage (tens of meters), with sensors deployed　to monitor the local environment. For simplicity, we assume that sensors are managed by the network operator, which allocates wireless resource blocks b to both terminals and sensors. Terminals transmit data proportionally to their　allocated resources, while only sensors receiving sufficient resources are permitted to transmit. In addition, RF modalities are extracted from communication signals transmitted by both terminals and sensors, providing physical-state observations of　the environment.
 
 ![semantic_inpainting_framework](Images/semantic_inpainting.png)
 
