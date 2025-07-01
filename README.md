@@ -6,7 +6,7 @@ This repo provides code and pretrained models for a semantic-space inpainting fr
 
 
 ## Semantic Inpainting Framework
-We considered a semantic inpainting framework where missing sensing modalities are inpainted via self-supervised semantic-space aggregation, providing the receiver with comprehensive target information.
+We considered a semantic inpainting framework where missing sensing modalities are inpainted via **self-supervised semantic-space aggregation**, providing the receiver with comprehensive target information.
 <img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
 
 ### Features
