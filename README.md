@@ -51,9 +51,8 @@ semantic-inpainting-framework/
 ---
 
 ## Acknowledgement
-
-Thanks for the joint supervision from [Prof. Mehdi Bennis](https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en) from Univ. of Oulu, Finland and [Prof. Takayuki Nishio](https://scholar.google.co.jp/citations?user=hHnMMMkAAAAJ&hl=ja) from Institute of Science Tokyo, Japan.
-
+This project was conducted under the joint supervision of [Prof. Mehdi Bennis](https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en), University of Oulu, Finland, and [Prof. Takayuki Nishio](https://scholar.google.co.jp/citations?user=hHnMMMkAAAAJ&hl=ja), Institute of Science Tokyo, Japan.
+Their guidance and support are gratefully acknowledged!
 
 
 
