@@ -10,7 +10,7 @@ We considered a semantic inpainting framework where missing sensing modalities a
 <img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
 
 ### Features
-- **Semantic Inpainting with Occlusion Support**  
+- **Semantic Inpainting with Robust Occlusion-Free Support**  
   Restore masked or occluded regions using self-supervised cross-modal context.
   
 - **Single- & Cross-Modal Compatibility**  
