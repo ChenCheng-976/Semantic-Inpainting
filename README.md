@@ -9,32 +9,16 @@ This repo provides code and pretrained models for a semantic-space inpainting fr
 We considered a semantic inpainting framework where missing sensing modalities are inpainted via **self-supervised semantic-space aggregation**, providing the receiver with comprehensive target information.
 <img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
 
-### Features
-- **Cross-ModalSemantic Inpainting with Robust Occlusion-Free Support (robustness)**  
-  Restore masked or occluded regions using self-supervised cross-modal context.
 
-- **Flexible Design with Optional Pretrained Architectures for Multiple Downstream Tasks (generalibility)**  
-  Semantic Encoder(s) → Semantic Inpaintor (Projection) → Downstream Decoder(s)
-  <br>Reuse components across **versatile tasks**, here we give three examples:
-  - Image Inpainting  
-  - Future CSI Prediction  
-  - Human Count Estimation
-  
-- Compress
-
----
 
 ## Project Structure (in progress...)
 ```text
 semantic-inpainting-framework/
 ├── code/                     #  Encoders, inpaintors, and decoders
-|     ├── Step 3: Pretraining for Downstream Decoders
-|     ├── Step 2: Pretraining for Semantic Inpaintors (projection heads)
-|     └── Step 1: Pretraining for Semantic Encoders
-├── data/                     # Pre-/post-processing scripts
-├── experiments/              # Training & evaluation pipelines
-├── pretrained models/        # Pretrained components
-├── Images/            　　　　# Figures for docs
+├── data/                     #  Pre-/post-processing scripts
+├── experiments/              #  Training & evaluation pipelines
+├── pretrained models/        #  Pretrained components
+├── Images/            　　　　#  Figures for docs
 └── README.md
 ```
 
