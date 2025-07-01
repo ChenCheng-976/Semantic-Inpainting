@@ -18,6 +18,10 @@ This repository contains code and models for performing visual inpainting of occ
 ## Project Structure
 
 
+## System Architecture
+
+![semantic_inpainting_framework](images/semantic_inpainting.pdf)
+
 
 ## News
 
