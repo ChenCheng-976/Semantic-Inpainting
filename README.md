@@ -18,7 +18,7 @@ This repository contains code and models for performing visual inpainting of occ
 
 
 ## Semantic Inpainting Framework
-<img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="300"/>
+<img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
 
 
 ## News
