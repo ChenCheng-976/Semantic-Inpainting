@@ -1,6 +1,5 @@
 # Semantic Inpainting for Distributed Cross-Modal Integrated Sensing and Communication (ISAC)
 
-## Intro
 This repo provides code and pretrained models for a semantic-space inpainting framework that unifies sensing and communication across modalities such as RGB images and Wi-Fi CSI.
 
 ---
@@ -10,9 +9,7 @@ This repo provides code and pretrained models for a semantic-space inpainting fr
 We considered a semantic inpainting framework where missing sensing modalities are inpainted via self-supervised semantic-space aggregation, providing the receiver with comprehensive target information.
 <img src="Images/semantic_inpainting.png" alt="semantic_inpainting_framework" width="700"/>
 
-
-
-## Features
+### Features
 - **Semantic Inpainting with Occlusion Support**  
   Restore masked or occluded regions using self-supervised cross-modal context.
   
@@ -28,6 +25,15 @@ We considered a semantic inpainting framework where missing sensing modalities a
 
 ---
 
+## Project Structure
+```text
+semantic-inpainting-framework/
+├── code/            # Encoders, decoders, projection heads
+├── data/              # Pre-/post-processing scripts
+├── experiments/       # Training & evaluation pipelines
+├── pretrained models/        # Pretrained weights (optional)
+├── Images/            # Figures for docs
+└── README.md
 
 
 
