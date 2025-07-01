@@ -44,11 +44,15 @@ semantic-inpainting-framework/
 ## News
 - **[Now]** We are working on a journal paper extension, it will be released soon.
 - **[2025-07-28]** Our paper is to be presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
-- **[2025-05-28]** Chen and Prof.Nishio attended the ICMLCN 2025 held in Barcelona, Spain, and Chen gave a [poster presentation](https://drive.google.com/file/d/1cm067bY0UgkVZ4J08-CdYT2SDGj-J6Rr/view?usp=sharing).
+- **[2025-05-28]** Chen and Prof. Nishio attended the ICMLCN 2025 held in Barcelona, Spain, and Chen gave a [poster presentation](https://drive.google.com/file/d/1cm067bY0UgkVZ4J08-CdYT2SDGj-J6Rr/view?usp=sharing).
 - **[2025-02-08]** Our paper is accepted by the proceeding of [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://icmlcn2025.ieee-icmlcn.org/), Congratulations!
 
 
+---
 
+## Acknowledgement
+
+Thanks for the joint supervision from [Prof. Mehdi Bennis](https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en) from Univ. of Oulu, Finland and [Prof. Takayuki Nishio](https://scholar.google.co.jp/citations?user=hHnMMMkAAAAJ&hl=ja) from Institute of Science Tokyo, Japan.
 
 
 
