@@ -1,6 +1,6 @@
 # Semantic Inpainting for Distributed Cross-Modal Integrated Sensing and Communication (ISAC)
 
-This repo provides code and pretrained models for a semantic-space inpainting framework that unifies sensing and communication across modalities such as RGB images and Wi-Fi CSI.
+This repo provides the dataset, code and pretrained models for a semantic-space inpainting framework that unifies sensing and communication across modalities such as RGB images and Wi-Fi CSI.
 
 ---
 
