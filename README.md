@@ -14,10 +14,10 @@ We considered a semantic inpainting framework where missing sensing modalities a
 ## Project Structure (in progress...)
 ```text
 semantic-inpainting-framework/
-├── training/                 #  Model training (encoders, inpaintors, and decoders)
-├── data/                     #  Pre-/post-processing scripts
-├── experiments/              #  Data pipelines
-├── pretrained models/        #  Pretrained components
+├── code/
+├── data/
+├── experiments/   
+├── pretrained models/        #  Pretrained components (encoders, inpaintors, and decoders)
 ├── Images/            　　　　#  Figures for docs
 └── README.md
 ```
@@ -25,7 +25,7 @@ semantic-inpainting-framework/
 ---
 
 ## News
-- **[Now]** The code, data, and pretrained models will be released soon.
+- **[Now]** We released the dataset, and code and pretrained models will be given soon.
 - **[2025-07-28]** Our work was presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
 - **[2025-05-28]** Prof. Nishio and Chen attended the ICMLCN 2025 held in Barcelona, Spain, and Chen gave a [poster presentation](https://drive.google.com/file/d/1cm067bY0UgkVZ4J08-CdYT2SDGj-J6Rr/view?usp=sharing).
 - **[2025-02-08]** Our paper is accepted by the proceeding of [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://icmlcn2025.ieee-icmlcn.org/), Congratulations!
