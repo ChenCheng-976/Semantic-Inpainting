@@ -35,7 +35,7 @@ The [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inp
 
 ## News
 - **[Now]** The code, pretrained models, etc. will be available soon.
-- **[2025-09-23]** We have released the dataset.
+- **[2025-09-23]** We have released the dataset on Huggingface.
 - **[2025-07-28]** Our work was presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
 - **[2025-05-28]** Prof. Nishio and Chen attended the ICMLCN 2025 held in Barcelona, Spain, and Chen gave a [poster presentation](https://drive.google.com/file/d/1cm067bY0UgkVZ4J08-CdYT2SDGj-J6Rr/view?usp=sharing).
 - **[2025-02-08]** Our PoC paper is accepted by the proceeding of [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://ieeexplore.ieee.org/abstract/document/11140469), Congratulations!
