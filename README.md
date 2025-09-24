@@ -29,7 +29,9 @@ The [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inp
 - **[Format]**: All data are provided as NumPy (.npy) files for easy loading.
 - **[Preprocessing]**: The data frames are fully synchronized and pre-processed, allowing direct import for experiments.
 
-```text
+You can pull the files straight from Hugging Face and load them into your pipeline without manual downloads. Here we offer an example usage:
+```code
+!pip install -U huggingface_hub numpy
 from huggingface_hub import snapshot_download
 
 local_dir = snapshot_download(
@@ -40,7 +42,6 @@ local_dir = snapshot_download(
 # Now you'll have:
 # local_dir/CSI/amp_*.npy            (CSI amplitudes from 9 sensors)
 # local_dir/camera_<id>/*.npy        (224x224x3 image sequences per camera)
-
 ```
 
 ---
