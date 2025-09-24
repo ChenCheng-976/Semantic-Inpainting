@@ -15,7 +15,6 @@ We considered a semantic inpainting framework where missing sensing modalities a
 ```text
 semantic-inpainting-framework/
 ├── code/
-├── data/
 ├── experiments/   
 ├── pretrained models/        #  Pretrained components (encoders, inpaintors, and decoders)
 ├── Images/            　　　　#  Figures for docs
