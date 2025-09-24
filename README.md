@@ -23,7 +23,7 @@ semantic-inpainting-framework/
 
 
 ## Dataset
-The [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main) includes both Wi-Fi CSI and synchronized image sequences. Please refer to the paper for detailed setup and collection procedures.
+The [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main) includes both Wi-Fi CSI and synchronized image sequences. Please refer to the paper for detailed setup.
 - **[CSI Data]**: Amplitude values collected from nine sensors are stored in the CSI/ folder.
 - **[Image Data]**: Time-sequenced images from each camera are stored in separate folders. All images are resized to 224×224×3 to reduce storage and allow easy feeding into deep models. You may resize them back to any desired resolution.
 - **[Format]**: All data are provided as NumPy (.npy) files for easy loading.
