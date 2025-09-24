@@ -21,11 +21,21 @@ semantic-inpainting-framework/
 └── README.md
 ```
 
+
+## Dataset
+The [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main) includes both Wi-Fi CSI and synchronized image sequences. Please refer to the paper for detailed setup and collection procedures.
+- **[CSI Data]**: Amplitude values collected from nine sensors are stored in the CSI/ folder.
+- **[Image Data]**: Time-sequenced images from each camera are stored in separate folders. All images are resized to 224×224×3 to reduce storage and allow easy feeding into deep models. You may resize them back to any desired resolution.
+- **[Format]**: All data are provided as NumPy (.npy) files for easy loading.
+- **[Preprocessing]**: The data frames are fully synchronized and pre-processed, allowing direct import for experiments.
+
+
+
 ---
 
 ## News
 - **[Now]** The code, pretrained models, etc. will be available soon.
-- **[2025-09-23]** As requested by readers, we have released the [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main).
+- **[2025-09-23]** We have released the dataset.
 - **[2025-07-28]** Our work was presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
 - **[2025-05-28]** Prof. Nishio and Chen attended the ICMLCN 2025 held in Barcelona, Spain, and Chen gave a [poster presentation](https://drive.google.com/file/d/1cm067bY0UgkVZ4J08-CdYT2SDGj-J6Rr/view?usp=sharing).
 - **[2025-02-08]** Our PoC paper is accepted by the proceeding of [IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025](https://ieeexplore.ieee.org/abstract/document/11140469), Congratulations!
