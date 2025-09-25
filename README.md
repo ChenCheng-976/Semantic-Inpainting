@@ -59,7 +59,7 @@ local_dir = snapshot_download(
 
 ## Acknowledgement
 This project was conducted under the joint supervision of and [Prof. Takayuki Nishio](https://scholar.google.co.jp/citations?user=hHnMMMkAAAAJ&hl=ja), Institute of Science Tokyo, Japan, and [Prof. Mehdi Bennis](https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en), University of Oulu, Finland.
-We also thank [Mr. Shoki Ohta](https://scholar.google.com/citations?user=Q75FgBcAAAAJ&hl=ja) for his invaluable efforts in collecting the dataset.
+We also thank [Mr. Shoki Ohta](https://scholar.google.com/citations?user=Q75FgBcAAAAJ&hl=ja), Institute of Science Tokyo, Japan, for his invaluable efforts in collecting the dataset.
 
 Their guidance and support are gratefully acknowledged!
 
