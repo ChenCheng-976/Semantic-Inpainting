@@ -23,7 +23,7 @@ semantic-inpainting-framework/
 
 
 ## Dataset
-* Here we thank [Mr. Shoki Ohta](https://scholar.google.com/citations?user=Q75FgBcAAAAJ&hl=ja), Institute of Science Tokyo, Japan, for his invaluable efforts in collecting the dataset.
+Here we thank [Mr. Shoki Ohta](https://scholar.google.com/citations?user=Q75FgBcAAAAJ&hl=ja), Institute of Science Tokyo, Japan, for his invaluable efforts in collecting the dataset.
 
 The [dataset](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main) includes both Wi-Fi CSI and synchronized image sequences. Please refer to the paper for detailed setup.
 - **[CSI Data]**: Amplitude values collected from nine sensors are stored in the CSI/ folder.
