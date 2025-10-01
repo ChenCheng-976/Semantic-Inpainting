@@ -49,7 +49,7 @@ local_dir = snapshot_download(
 ---
 
 ## News
-- **[Now]** The code, pretrained models, etc. will be available soon.
+- **[Now]** The refined code, pretrained models, etc. will be available soon.
 - **[2025-09-23]** As requested by many readers, we have released the [dataset and sample code](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main) on Huggingface.
 - **[2025-07-28]** Our work was presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
 - **[2025-05-28]** Prof. Nishio and Chen attended the ICMLCN 2025 held in Barcelona, Spain, and Chen gave a [poster presentation](https://drive.google.com/file/d/1cm067bY0UgkVZ4J08-CdYT2SDGj-J6Rr/view?usp=sharing).
