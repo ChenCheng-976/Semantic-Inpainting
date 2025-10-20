@@ -50,6 +50,7 @@ local_dir = snapshot_download(
 
 ## News
 - **[Now]** The refined code, pretrained models, etc. will be available soon.
+- **[2025-10-17]** We have reopened the dataset page with the permission from the participants.
 - **[2025-10-04]** We have temporarily closed the dataset page due to privacy concerns. It will be re-opened once we obtain permission from the experiment participants.
 - **[2025-09-23]** As requested by many readers, we released the [dataset and sample code](https://huggingface.co/datasets/cheng-chen-ScienceTky/Semantic_Inpainting/tree/main) on Huggingface.
 - **[2025-07-28]** Our work was presented at the proceeding of [28th Meeting on Image Recognition and Understanding (MIRU2025)​](https://cvim.ipsj.or.jp/MIRU2025/timetable-en.html).
